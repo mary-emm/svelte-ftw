@@ -4,13 +4,13 @@
 npx degit joysofcode/learn-svelte learn-svelte
 ```
 
-### 📦️ Install dependencies
+### Install dependencies
 
 ```sh
 npm i
 ```
 
-### 🧑‍💻 Start the development server
+### Start the development server
 
 ```sh
 npm run dev
