@@ -1,7 +1,7 @@
 <script>
-	let count = $state(0)
+
+	import Example1 from './examples/01example.svelte'
+
 </script>
 
-<button onclick={() => count++}>
-	{count}
-</button>
+<Example1/>
